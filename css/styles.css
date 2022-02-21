@@ -42,6 +42,7 @@ table td:last-child {
 }
 
 .endgame {
+  display: none;
   width: 200px;
   top: 120px;
   position: absolute;
